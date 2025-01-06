@@ -111,7 +111,6 @@ This project highlights the importance of **testing** in modern web applications
 ## Walkthrough Video
 
 🎥 **[Link to Walkthrough Video](https://drive.google.com/file/d/1_-6SpPilIdLqwJgG0BMXCaGu_BHVRuvo/view?usp=sharing)**
-      **link in http:**  ***https://drive.google.com/file/d/1_-6SpPilIdLqwJgG0BMXCaGu_BHVRuvo/view?usp=sharing***
 
 The video demonstrates:
 1. Application functionality.
